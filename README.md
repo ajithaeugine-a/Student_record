@@ -21,7 +21,7 @@ Features
 
 How to Complie
 
-    usind GCC : gcc*.c -o outfile (or)
+    using GCC : gcc*.c -o outfile (or)
     using makefile : make
 
 How to Run
