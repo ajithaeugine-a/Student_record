@@ -30,4 +30,4 @@ How to Run
 
 Author Name
 
-S.Rajalakshmi (ECE)
+A Ajitha Eugine
